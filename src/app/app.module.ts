@@ -32,7 +32,7 @@ import {ShoppingListService} from './shopping-list/shopping-list.service';
   imports: [
     FormsModule,
     HttpModule,
-    BrowserModule   /*  AlertModule.forRoot() */
+    BrowserModule   /*  AlertModule.forRoot() imp*/
   ],
   providers: [ShoppingListService],
   bootstrap: [AppComponent]
